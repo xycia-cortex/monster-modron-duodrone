@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-modron-duodrone
+  x-cortex-tag: monster-modron-duodrone
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: construct
+    challenge_rating: 0.25
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-modron-duodrone
+      alias: github-token-test
